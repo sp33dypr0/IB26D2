@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="./styles/kapcsolat.css">
     <script type="text/javascript" src="./js/main.js"></script>
 </head>
 <body>

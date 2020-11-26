@@ -1,0 +1,133 @@
+body {
+    background-image: url(../images/background.jpg); height: 300px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: white;
+    border-style: outset;
+    padding-left: 20px;
+}
+
+header img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.header{
+    font-size: xx-large;
+    margin-left: 60px;
+}
+
+div.wrapper {
+    margin: 0px 0px;
+    border-style: initial;
+    background-color: aqua;
+}
+
+aside {
+    display: inline;
+}
+
+nav {
+    border-radius: 5px;
+    border-style: outset;
+}
+
+nav ul {
+    border-style: outset;
+    border-radius: 5px;
+    list-style-type: none;
+    padding: 0px 50px;
+    background-color:lightgray;
+    width: 100%;
+}
+
+nav ul li {
+    display: inline;
+    padding: 5px 15px;
+    font-size: large;
+}
+
+div {
+    border-style: outset;
+    border-radius: 5px;
+    background-color: white;
+}
+
+div.article-div{
+    background-color:white;
+    border-style: none;
+}
+
+article{
+    margin-bottom: 100px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.article-h1{
+    font-size: xx-large;
+    color: coral;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.article-time{
+    color: coral;
+    font-weight: bold;
+    padding-left: 30px;
+    text-decoration: overline;
+}
+
+p{
+    padding-left: 50px;
+}
+
+#article-iframe{
+    margin-left: 50px;
+}
+
+.article-link{
+    font-weight: bold;
+    padding-left: 50px;
+    color: darkblue;
+    text-decoration: none;
+}
+
+div#content img{
+    float: right;
+    width: 15em;
+    height: auto;
+    margin: 0 0 15px 15px;
+    padding: 3px;
+    border: 3px solid coral;
+}
+
+form{
+    margin: 20px;
+}
+
+table, td, tr {
+    border: 1px solid black;
+    margin: 20px;
+    }
+
+h3 {
+    margin: 20px;
+}
+
+footer {
+    border-radius: 5px;
+    border-style: outset;
+    padding: 5px 20px;
+    background-color: lightgrey;
+}

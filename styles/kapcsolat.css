@@ -1,0 +1,25 @@
+div#kapcs {
+	width: 500px;
+	border-style: none;
+	}
+
+label {
+	line-height: 30px;
+
+	}
+label input, label textarea {
+	border: 2px red solid;
+	padding: 2px;
+	}
+
+textarea {
+	width: 350px;
+	}
+
+input[type="submit"] {
+	clear: both;
+	}
+
+button {
+	margin: 20px;
+	}
