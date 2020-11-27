@@ -18,6 +18,8 @@ $lablec = array(
 $oldalak = array(
 	'/' => array('fajl' => 'cimlap', 'szoveg' => 'Címlap', 'menun' => array(1,1)),
 	'rolunk' => array('fajl' => 'rolunk', 'szoveg' => 'Rólunk', 'menun' => array(1,1)),
+    'kepek' => array('fajl' => 'kepek', 'szoveg' => 'Képek', 'menun' => array(1,1)),
+    'feltoltes' => array('fajl' => 'feltoltes', 'szoveg' => 'Feltöltés', 'menun' => array(1,1)),
     'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'Kapcsolat', 'menun' => array(1,1)),
     'uzenet' => array('fajl' => 'uzenet', 'szoveg' => 'Üzenet', 'menun' => array(1,1)),
     'email' => array('fajl' => 'email', 'szoveg' => 'E-mail', 'menun' => array(1,1)),
