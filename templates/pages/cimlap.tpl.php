@@ -20,7 +20,7 @@
 <time class="article-time">2020.február 01.</time>
 <div class="article-div"><br>
 <video id="article-iframe" width="320" height="240" controls>
-  <source src="./video/cat.mp4" type="video/mp4">
+  <source src="./video/flower.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </div>
